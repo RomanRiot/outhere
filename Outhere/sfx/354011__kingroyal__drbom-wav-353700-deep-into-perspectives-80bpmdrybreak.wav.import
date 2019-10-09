@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/354011__kingroyal__drbom-wav-353700-deep-into-perspectives-80bpmdrybreak.wav-deda5c0ff944f18c3619c86a54ff1228.sample"
+
+[deps]
+
+source_file="res://sfx/354011__kingroyal__drbom-wav-353700-deep-into-perspectives-80bpmdrybreak.wav"
+dest_files=[ "res://.import/354011__kingroyal__drbom-wav-353700-deep-into-perspectives-80bpmdrybreak.wav-deda5c0ff944f18c3619c86a54ff1228.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=true
+edit/normalize=true
+edit/loop=false
+compress/mode=0

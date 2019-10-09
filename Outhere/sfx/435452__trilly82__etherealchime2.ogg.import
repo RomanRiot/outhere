@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/435452__trilly82__etherealchime2.ogg-010771afca5490f93f0f6a3ee5a4f485.oggstr"
+
+[deps]
+
+source_file="res://sfx/435452__trilly82__etherealchime2.ogg"
+dest_files=[ "res://.import/435452__trilly82__etherealchime2.ogg-010771afca5490f93f0f6a3ee5a4f485.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0
